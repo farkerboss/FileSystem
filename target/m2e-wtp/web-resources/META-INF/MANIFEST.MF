@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ￨ﾵﾵ￥ﾁﾥ
+Implementation-Vendor-Id: com.qys
+Build-Jdk: 1.8.0_05
+Implementation-URL: http://projects.spring.io/spring-boot/Client/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
